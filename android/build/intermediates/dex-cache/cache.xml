@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/tarmim/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.1.1/39ded76b5e1ce1c5b2688e1d25cdc20ecee32007/support-annotations-27.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="/home/tarmim/hub/splashscrn/nativeSplash/android/app/build/intermediates/pre-dexed/debug/support-annotations-27.1.1_8938a770d3b38a13d99280e916990282a30a5829.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tarmim/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.1.1/39ded76b5e1ce1c5b2688e1d25cdc20ecee32007/support-annotations-27.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="/home/tarmim/hub/splashscrn/nativeSplash/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-27.1.1_8938a770d3b38a13d99280e916990282a30a5829/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tarmim/hub/splashscrn/nativeSplash/android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d836b2debd58eb609ee2cf510719c090311c26f8">
+        <dex dex="/home/tarmim/hub/splashscrn/nativeSplash/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c8d103a3f5d92d13baf7ab46b349883793bd6319/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tarmim/.android/build-cache/c34d02d7bdee53a0b686f69962975eac7406aa1d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="23dcb4803d3103bde3f3f5db978a726338fe49ae">
+        <dex dex="/home/tarmim/hub/splashscrn/nativeSplash/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_70d56d8e719599a506f43d7bd7ba15ec8d45a06b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tarmim/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.0/edf3f7bfb84a7521d0599efa3b0113a0ee90f85/common-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
+        <dex dex="/home/tarmim/hub/splashscrn/nativeSplash/android/app/build/intermediates/pre-dexed/debug/common-1.1.0_358be024755f3173eeb33c3fe4fb3be2837c30fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tarmim/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.0/8007981f7d7540d89cd18471b8e5dcd2b4f99167/common-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="8007981f7d7540d89cd18471b8e5dcd2b4f99167">
+        <dex dex="/home/tarmim/hub/splashscrn/nativeSplash/android/app/build/intermediates/pre-dexed/debug/common-1.1.0_28c25279ae5b4b68bd585f3750d95f08f141a314.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tarmim/.android/build-cache/09ef2cf8eedca7942015e4c58bfba5c2991677a4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/home/tarmim/hub/splashscrn/nativeSplash/android/app/build/intermediates/pre-dexed/debug/classes_61cbb647c895c2cc409476b565851c31cc434d4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tarmim/.android/build-cache/c34d02d7bdee53a0b686f69962975eac7406aa1d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="23dcb4803d3103bde3f3f5db978a726338fe49ae">
+        <dex dex="/home/tarmim/hub/splashscrn/nativeSplash/android/app/build/intermediates/pre-dexed/debug/classes_70d56d8e719599a506f43d7bd7ba15ec8d45a06b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tarmim/hub/splashscrn/nativeSplash/android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/tarmim/hub/splashscrn/nativeSplash/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0dccc29e95c0f4df438ec0a92b6956caa3b8ffe4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tarmim/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.0/edf3f7bfb84a7521d0599efa3b0113a0ee90f85/common-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
+        <dex dex="/home/tarmim/hub/splashscrn/nativeSplash/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.1.0_358be024755f3173eeb33c3fe4fb3be2837c30fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tarmim/.gradle/caches/modules-2/files-2.1/com.android.support.constraint/constraint-layout-solver/1.1.2/bfc967828daffc35ba01c9ee204d98b664930a0f/constraint-layout-solver-1.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="bfc967828daffc35ba01c9ee204d98b664930a0f">
+        <dex dex="/home/tarmim/hub/splashscrn/nativeSplash/android/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.1.2_53bd0c6cad8c3eb2a1c064cbbf5fdf7b64c7718d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tarmim/.android/build-cache/e57e646977d85c640ea825bd2c52f342aab3f24a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e2bbe48deed35056023eed2cdc0cc92e5c7d3617">
+        <dex dex="/home/tarmim/hub/splashscrn/nativeSplash/android/app/build/intermediates/pre-dexed/debug/classes_aa4fc7537cb4c8ed1c16d115aa98e7236a5a77f1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tarmim/.android/build-cache/e57e646977d85c640ea825bd2c52f342aab3f24a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e2bbe48deed35056023eed2cdc0cc92e5c7d3617">
+        <dex dex="/home/tarmim/hub/splashscrn/nativeSplash/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aa4fc7537cb4c8ed1c16d115aa98e7236a5a77f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tarmim/.android/build-cache/09ef2cf8eedca7942015e4c58bfba5c2991677a4/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/tarmim/hub/splashscrn/nativeSplash/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_18f3e08f5620b85a98472d8948e54d620082b0a9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tarmim/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.0/8007981f7d7540d89cd18471b8e5dcd2b4f99167/common-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="8007981f7d7540d89cd18471b8e5dcd2b4f99167">
+        <dex dex="/home/tarmim/hub/splashscrn/nativeSplash/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.1.0_28c25279ae5b4b68bd585f3750d95f08f141a314/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tarmim/.android/build-cache/8b48f93c205734c28084a46f759e9b963a06187e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="182370a4a0bba7903c6ff2cb7b6ac21ca4a4bf89">
+        <dex dex="/home/tarmim/hub/splashscrn/nativeSplash/android/app/build/intermediates/pre-dexed/debug/classes_f04011c6b8435844202fbd84ad2332de29401303.jar" />
+    </item>
+
+</items>

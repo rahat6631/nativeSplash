@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/tarmim/hub/splashscrn/nativeSplash/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/tarmim/.android/build-cache/c34d02d7bdee53a0b686f69962975eac7406aa1d/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/tarmim/hub/splashscrn/nativeSplash/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/tarmim/.android/build-cache/dc52c4270ebf0e8aa01148668b54315ad9bb9715/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/tarmim/hub/splashscrn/nativeSplash/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/tarmim/.android/build-cache/dc52c4270ebf0e8aa01148668b54315ad9bb9715/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/tarmim/hub/splashscrn/nativeSplash/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/tarmim/.android/build-cache/dc52c4270ebf0e8aa01148668b54315ad9bb9715/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

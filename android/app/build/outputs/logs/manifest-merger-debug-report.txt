@@ -1,0 +1,125 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/tarmim/hub/splashscrn/nativeSplash/android/app/src/main/AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from /home/tarmim/hub/splashscrn/nativeSplash/android/app/src/main/AndroidManifest.xml:3:5-31
+		INJECTED from /home/tarmim/hub/splashscrn/nativeSplash/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tarmim/hub/splashscrn/nativeSplash/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/tarmim/hub/splashscrn/nativeSplash/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tarmim/hub/splashscrn/nativeSplash/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/tarmim/hub/splashscrn/nativeSplash/android/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/tarmim/hub/splashscrn/nativeSplash/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tarmim/hub/splashscrn/nativeSplash/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/tarmim/hub/splashscrn/nativeSplash/android/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/tarmim/hub/splashscrn/nativeSplash/android/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/tarmim/hub/splashscrn/nativeSplash/android/app/src/main/AndroidManifest.xml:6:5-78
+MERGED from [com.facebook.react:react-native:0.56.0] /home/tarmim/.android/build-cache/09ef2cf8eedca7942015e4c58bfba5c2991677a4/output/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /home/tarmim/hub/splashscrn/nativeSplash/android/app/src/main/AndroidManifest.xml:6:22-75
+application
+ADDED from /home/tarmim/hub/splashscrn/nativeSplash/android/app/src/main/AndroidManifest.xml:8:5-30:19
+MERGED from [com.facebook.react:react-native:0.56.0] /home/tarmim/.android/build-cache/09ef2cf8eedca7942015e4c58bfba5c2991677a4/output/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/tarmim/.android/build-cache/dc52c4270ebf0e8aa01148668b54315ad9bb9715/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/tarmim/.android/build-cache/80c3275d848aaa1669c8e8899b6cd82dd0bbca61/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/tarmim/.android/build-cache/1f07f92788af1a320ba3ab57db982a46c7e71e51/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/tarmim/.android/build-cache/b0bf3f556407d509ffaf5c72ba99d4210d16ff39/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/tarmim/.android/build-cache/9dc452ebc5d3200ce0f8430e6fdbdaa8b0362ef3/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/tarmim/.android/build-cache/a65647ba65afde72ce0ba1d8181d4da371530b9f/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/tarmim/.android/build-cache/c1476a22614b6df1fe92d06502f283e217528cf0/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/tarmim/.android/build-cache/2e4277a6d08e175345740852086147fab8923aba/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.facebook.soloader:soloader:0.3.0] /home/tarmim/.android/build-cache/3e70be17d860f47e8cbe93614d2b80bf3f967b35/output/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /home/tarmim/.android/build-cache/9aa2dbd819b04438bd8e0c97357a81d0f79a1410/output/AndroidManifest.xml:2:3-17
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/tarmim/.android/build-cache/8b48f93c205734c28084a46f759e9b963a06187e/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/tarmim/hub/splashscrn/nativeSplash/android/app/src/main/AndroidManifest.xml:12:9-41
+	android:allowBackup
+		ADDED from /home/tarmim/hub/splashscrn/nativeSplash/android/app/src/main/AndroidManifest.xml:10:9-36
+	android:icon
+		ADDED from /home/tarmim/hub/splashscrn/nativeSplash/android/app/src/main/AndroidManifest.xml:11:9-43
+	android:theme
+		ADDED from /home/tarmim/hub/splashscrn/nativeSplash/android/app/src/main/AndroidManifest.xml:13:9-40
+	android:name
+		ADDED from /home/tarmim/hub/splashscrn/nativeSplash/android/app/src/main/AndroidManifest.xml:9:9-40
+activity#com.nativesplash.SplashScreen
+ADDED from /home/tarmim/hub/splashscrn/nativeSplash/android/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /home/tarmim/hub/splashscrn/nativeSplash/android/app/src/main/AndroidManifest.xml:14:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/tarmim/hub/splashscrn/nativeSplash/android/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/tarmim/hub/splashscrn/nativeSplash/android/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/tarmim/hub/splashscrn/nativeSplash/android/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/tarmim/hub/splashscrn/nativeSplash/android/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/tarmim/hub/splashscrn/nativeSplash/android/app/src/main/AndroidManifest.xml:18:27-74
+activity#com.nativesplash.MainActivity
+ADDED from /home/tarmim/hub/splashscrn/nativeSplash/android/app/src/main/AndroidManifest.xml:21:9-27:20
+	android:label
+		ADDED from /home/tarmim/hub/splashscrn/nativeSplash/android/app/src/main/AndroidManifest.xml:24:13-45
+	android:windowSoftInputMode
+		ADDED from /home/tarmim/hub/splashscrn/nativeSplash/android/app/src/main/AndroidManifest.xml:25:13-55
+	android:configChanges
+		ADDED from /home/tarmim/hub/splashscrn/nativeSplash/android/app/src/main/AndroidManifest.xml:23:13-83
+	android:name
+		ADDED from /home/tarmim/hub/splashscrn/nativeSplash/android/app/src/main/AndroidManifest.xml:22:13-41
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/tarmim/hub/splashscrn/nativeSplash/android/app/src/main/AndroidManifest.xml:29:9-86
+	android:name
+		ADDED from /home/tarmim/hub/splashscrn/nativeSplash/android/app/src/main/AndroidManifest.xml:29:19-83
+uses-sdk
+INJECTED from /home/tarmim/hub/splashscrn/nativeSplash/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.facebook.react:react-native:0.56.0] /home/tarmim/.android/build-cache/09ef2cf8eedca7942015e4c58bfba5c2991677a4/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/tarmim/.android/build-cache/dc52c4270ebf0e8aa01148668b54315ad9bb9715/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.1.0] /home/tarmim/.android/build-cache/80c3275d848aaa1669c8e8899b6cd82dd0bbca61/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/tarmim/.android/build-cache/1f07f92788af1a320ba3ab57db982a46c7e71e51/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /home/tarmim/.android/build-cache/b0bf3f556407d509ffaf5c72ba99d4210d16ff39/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/tarmim/.android/build-cache/9dc452ebc5d3200ce0f8430e6fdbdaa8b0362ef3/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/tarmim/.android/build-cache/a65647ba65afde72ce0ba1d8181d4da371530b9f/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/tarmim/.android/build-cache/c1476a22614b6df1fe92d06502f283e217528cf0/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/tarmim/.android/build-cache/2e4277a6d08e175345740852086147fab8923aba/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/tarmim/.android/build-cache/b32fcc54e909f5565bb1a6bd20181fe462835d5e/output/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.9.0] /home/tarmim/.android/build-cache/33927b3a928575761fe64224961a6f5a6fbe7831/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.9.0] /home/tarmim/.android/build-cache/c83a86dbd0124ac9e8c6a0a6df386ece90ccb6d1/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /home/tarmim/.android/build-cache/92fc245b78c93a5e6d9fc18ef11df33e3656123d/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /home/tarmim/.android/build-cache/186487f5c3677d0f5016755ffc6203d7d540ea6b/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /home/tarmim/.android/build-cache/a0630fe186ff8878cf7febabc1400a4a5ca9a090/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /home/tarmim/.android/build-cache/d8f309378a14e719bcb8d2590009c2aef14999d7/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.3.0] /home/tarmim/.android/build-cache/3e70be17d860f47e8cbe93614d2b80bf3f967b35/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/tarmim/.android/build-cache/8b48f93c205734c28084a46f759e9b963a06187e/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-compat:27.1.1] /home/tarmim/.android/build-cache/c34d02d7bdee53a0b686f69962975eac7406aa1d/output/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/tarmim/.android/build-cache/e57e646977d85c640ea825bd2c52f342aab3f24a/output/AndroidManifest.xml:20:5-44
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/tarmim/.android/build-cache/dc52c4270ebf0e8aa01148668b54315ad9bb9715/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/tarmim/hub/splashscrn/nativeSplash/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tarmim/hub/splashscrn/nativeSplash/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/tarmim/hub/splashscrn/nativeSplash/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tarmim/hub/splashscrn/nativeSplash/android/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /home/tarmim/.android/build-cache/dc52c4270ebf0e8aa01148668b54315ad9bb9715/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/tarmim/.android/build-cache/80c3275d848aaa1669c8e8899b6cd82dd0bbca61/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/tarmim/.android/build-cache/1f07f92788af1a320ba3ab57db982a46c7e71e51/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/tarmim/.android/build-cache/b0bf3f556407d509ffaf5c72ba99d4210d16ff39/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/tarmim/.android/build-cache/9dc452ebc5d3200ce0f8430e6fdbdaa8b0362ef3/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/tarmim/.android/build-cache/a65647ba65afde72ce0ba1d8181d4da371530b9f/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/tarmim/.android/build-cache/c1476a22614b6df1fe92d06502f283e217528cf0/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/tarmim/.android/build-cache/2e4277a6d08e175345740852086147fab8923aba/output/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/tarmim/.android/build-cache/dc52c4270ebf0e8aa01148668b54315ad9bb9715/output/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/tarmim/.android/build-cache/dc52c4270ebf0e8aa01148668b54315ad9bb9715/output/AndroidManifest.xml:27:13-51
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/tarmim/hub/splashscrn/nativeSplash/android/app/src/main/AndroidManifest.xml:2:1-32:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/tarmim/hub/splashscrn/nativeSplash/android/app/src/main/AndroidManifest.xml:2:1-32:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/tarmim/hub/splashscrn/nativeSplash/android/app/src/main/AndroidManifest.xml:2:1-32:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/tarmim/hub/splashscrn/nativeSplash/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/tarmim/.android/build-cache/dc52c4270ebf0e8aa01148668b54315ad9bb9715/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/tarmim/hub/splashscrn/nativeSplash/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/tarmim/.android/build-cache/dc52c4270ebf0e8aa01148668b54315ad9bb9715/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/tarmim/hub/splashscrn/nativeSplash/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/tarmim/.android/build-cache/dc52c4270ebf0e8aa01148668b54315ad9bb9715/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/tarmim/hub/splashscrn/nativeSplash/android/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/tarmim/.android/build-cache/dc52c4270ebf0e8aa01148668b54315ad9bb9715/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/tarmim/hub/splashscrn/nativeSplash/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/tarmim/.android/build-cache/dc52c4270ebf0e8aa01148668b54315ad9bb9715/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/tarmim/hub/splashscrn/nativeSplash/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/tarmim/.android/build-cache/dc52c4270ebf0e8aa01148668b54315ad9bb9715/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/tarmim/hub/splashscrn/nativeSplash/android/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/tarmim/.android/build-cache/dc52c4270ebf0e8aa01148668b54315ad9bb9715/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/tarmim/hub/splashscrn/nativeSplash/android/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/tarmim/.android/build-cache/dc52c4270ebf0e8aa01148668b54315ad9bb9715/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/tarmim/hub/splashscrn/nativeSplash/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/tarmim/.android/build-cache/dc52c4270ebf0e8aa01148668b54315ad9bb9715/output/res/color-v23/abc_tint_edittext.xml"
+    }
+]

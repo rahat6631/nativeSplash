@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/tarmim/hub/splashscrn/nativeSplash/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/tarmim/.android/build-cache/dc52c4270ebf0e8aa01148668b54315ad9bb9715/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/tarmim/hub/splashscrn/nativeSplash/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/tarmim/.android/build-cache/dc52c4270ebf0e8aa01148668b54315ad9bb9715/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

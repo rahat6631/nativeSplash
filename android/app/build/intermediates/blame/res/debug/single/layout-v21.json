@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/tarmim/hub/splashscrn/nativeSplash/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/tarmim/.android/build-cache/c34d02d7bdee53a0b686f69962975eac7406aa1d/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/tarmim/hub/splashscrn/nativeSplash/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/tarmim/.android/build-cache/c34d02d7bdee53a0b686f69962975eac7406aa1d/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/tarmim/hub/splashscrn/nativeSplash/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/tarmim/.android/build-cache/c34d02d7bdee53a0b686f69962975eac7406aa1d/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/tarmim/hub/splashscrn/nativeSplash/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/tarmim/.android/build-cache/c34d02d7bdee53a0b686f69962975eac7406aa1d/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

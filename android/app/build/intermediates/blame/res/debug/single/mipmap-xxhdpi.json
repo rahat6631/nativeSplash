@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/tarmim/hub/splashscrn/nativeSplash/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/tarmim/hub/splashscrn/nativeSplash/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/tarmim/hub/splashscrn/nativeSplash/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/home/tarmim/hub/splashscrn/nativeSplash/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    }
+]
